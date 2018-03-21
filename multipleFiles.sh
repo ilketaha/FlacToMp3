@@ -1,3 +1,4 @@
+#!/bin/bash
 SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 for a in *.flac; do
